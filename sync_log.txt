@@ -1,0 +1,6 @@
+2024-09-11 17:31:31,043 - INFO - Logging initialized
+2024-09-11 17:32:34,670 - INFO - Logging initialized
+2024-09-11 17:32:34,719 - INFO - File copied: ./source/.DS_Store -> ./replica/.DS_Store
+2024-09-11 17:32:34,720 - INFO - File copied: ./source/0h_differentcm_mask.tif -> ./replica/0h_differentcm_mask.tif
+2024-09-11 17:32:34,722 - INFO - File copied: ./source/1-s2.0-S1011134400000282-main.pdf -> ./replica/1-s2.0-S1011134400000282-main.pdf
+2024-09-11 17:32:34,729 - INFO - File copied: ./source/000001_1_1.jpg -> ./replica/000001_1_1.jpg
